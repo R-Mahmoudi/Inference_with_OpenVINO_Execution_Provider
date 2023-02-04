@@ -4,7 +4,14 @@ This weekend I decided to play around with OpenVINO™ Execution Provider for ON
 
 Check out the video below for yourself to see how I ran inferencing using OpenVINO™ Execution Provider for ONNX Runtime on Google Colab.
 
+
+https://user-images.githubusercontent.com/108347344/216785191-e6c709e7-db9d-4708-bbc9-90afaa5a81fe.mp4
+
+
+
+
 Try the notebook out for yourself on Google Colab: 
+
 https://github.com/R-Mahmoudi/Inference_with_OpenVINO_Execution_Provider/blob/main/Inference_with_OpenVINO_Execution_Provider.ipynb
 
 
